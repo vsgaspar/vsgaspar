@@ -6,21 +6,14 @@ Kauã Rodrigues, São Paulo
 
 > Fullstack Developer with experience in their frameworks and familiar with agile methodologies.
 
-`📚` Software Engeneering
-<br>
-`❤️` In love with **Web Development**
+## - 🧠 Languages ​​and Tools
 
-<img align="center" href="https://marquezdev.com.br" target="_blank" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marquezenrique&layout=compact&theme=transparent" alt="My Github Stats">
-
-## - 🧠 Technologies and knowledge
-
+[![](https://skillicons.dev/icons?i=lua)]([https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://www.lua.org))
 [![](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/docs/)
+[![](https://skillicons.dev/icons?i=py)](https://www.python.org)
+<br>
 [![](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en/docs/)
-[![](https://skillicons.dev/icons?i=react)](https://reactjs.org/docs/getting-started.html)
-[![](https://skillicons.dev/icons?i=next)](https://nextjs.org/docs)
-[![](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/docs)
-[![](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/docs/)
-[![](https://skillicons.dev/icons?i=mysql)](https://dev.mysql.com/doc/)
 [![](https://skillicons.dev/icons?i=discordjs)](https://discord.js.org/#/docs/main/stable/general/welcome)
+[![](https://skillicons.dev/icons?i=prisma)](https://www.prisma.io)
+[![](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)

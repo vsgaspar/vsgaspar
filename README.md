@@ -2,7 +2,7 @@
 
 <h1>🙋‍♂️ Hello world!</h1>
 
-Kauã Rodrigues, São Paulo
+Kauã Rodriguez, São Paulo
 
 > Fullstack Developer with experience in their frameworks and familiar with agile methodologies.
 
